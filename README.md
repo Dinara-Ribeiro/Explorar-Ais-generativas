@@ -1,13 +1,11 @@
-# Explorar-Ais-generativas
+# Último Desafio Dio AI
 
-echo "# Último Desafio Dio AI
-
-Este projeto é uma página web simples que incorpora um vídeo do YouTube criado como parte do Desafio Dio AI. A página também descreve as ferramentas utilizadas para criar o vídeo.
+Este projeto é uma página web simples que incorpora um vídeo do YouTube criado como parte do "Último Desafio Dio AI". A página também descreve as ferramentas utilizadas para criar o vídeo.
 
 ## Estrutura do Projeto
 
-- \`index.html\`: O arquivo HTML principal que estrutura a página.
-- \`styles.css\`: O arquivo CSS que estiliza a página.
+- `index.html`: O arquivo HTML principal que estrutura a página.
+- `styles.css`: O arquivo CSS que estiliza a página.
 
 ## Ferramentas Utilizadas
 
@@ -22,5 +20,5 @@ Este projeto é uma página web simples que incorpora um vídeo do YouTube criad
 Para visualizar a página web, siga estas etapas:
 
 1. Clone este repositório em sua máquina local.
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+   bash
+   git clone https://github.com/Dinara-Ribeiro/seu-repositorio.git
